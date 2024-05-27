@@ -1,4 +1,41 @@
-# TodoList
+<h1 align="center"> Lista de Tarefas </h1>
+
+<p align="center">
+    Um WebApp lista de tarefas, para te auxiliar com tarefas do dia a dia<br/>
+</p>
+
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
+
+![image](https://github.com/marcostwelve/to-do/assets/94411600/82c077a9-9df8-45f4-a730-bc037599575b)
+
+
+<br/>
+
+
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- Angular
+- Typescript
+
+## 💻 Projeto
+
+Lista de Tarefas (todo), é um webapp para auxiliar com tarefas e atividades do dia a dia
+
+- [visite o projeto online](https://todo-list-blue-iota.vercel.app/todo)
+
+
+## 🖋 Licença
+
+- Este projeto, está sob licença MIT
+
+# Configuração Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.13.
 
